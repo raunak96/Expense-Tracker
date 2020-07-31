@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/expense-tracker/static/css/main.c18a19c2.chunk.css",
+    "main.js": "/github.io/expense-tracker/static/js/main.8a5569cb.chunk.js",
+    "main.js.map": "/github.io/expense-tracker/static/js/main.8a5569cb.chunk.js.map",
+    "runtime-main.js": "/github.io/expense-tracker/static/js/runtime-main.43f54cb1.js",
+    "runtime-main.js.map": "/github.io/expense-tracker/static/js/runtime-main.43f54cb1.js.map",
+    "static/js/2.676e6473.chunk.js": "/github.io/expense-tracker/static/js/2.676e6473.chunk.js",
+    "static/js/2.676e6473.chunk.js.map": "/github.io/expense-tracker/static/js/2.676e6473.chunk.js.map",
+    "index.html": "/github.io/expense-tracker/index.html",
+    "precache-manifest.4de74afe94ec215500f704a313e678d2.js": "/github.io/expense-tracker/precache-manifest.4de74afe94ec215500f704a313e678d2.js",
+    "service-worker.js": "/github.io/expense-tracker/service-worker.js",
+    "static/css/main.c18a19c2.chunk.css.map": "/github.io/expense-tracker/static/css/main.c18a19c2.chunk.css.map",
+    "static/js/2.676e6473.chunk.js.LICENSE.txt": "/github.io/expense-tracker/static/js/2.676e6473.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43f54cb1.js",
+    "static/js/2.676e6473.chunk.js",
+    "static/css/main.c18a19c2.chunk.css",
+    "static/js/main.8a5569cb.chunk.js"
+  ]
+}
